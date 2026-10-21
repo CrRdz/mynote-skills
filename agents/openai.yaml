@@ -1,0 +1,4 @@
+interface:
+  display_name: "mynote"
+  short_description: "沿用你的课堂笔记风格，结合课件整理英文要点、中文推导和裁切配图"
+  default_prompt: "使用 $mynote，参照我最新的笔记和对应课件完成本讲笔记，在必要处补中文解释，并只使用裁切后的相关配图。"
