@@ -8,7 +8,7 @@
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/CrRdz/mynote.git ~/.codex/skills/mynote
+git clone https://github.com/CrRdz/mynote-skills.git ~/.codex/skills/mynote
 ```
 
 若同名目录已存在，请先备份或移走，避免覆盖自己的修改。
